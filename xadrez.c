@@ -9,7 +9,7 @@ int main() {
     printf("=== Movimento da TORRE ===\n");
     for (i = 1; i <= casasTorre; i++) {
         printf("Cima\n");
-    }
+    } 
     printf("\n");
 
     // ========================
